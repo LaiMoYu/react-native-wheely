@@ -7,6 +7,10 @@
   "repository": "https://github.com/erksch/react-native-wheely",
   "author": "erksch (Erik Ziegler)",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "keywords": [
     "react",
     "react-native",
