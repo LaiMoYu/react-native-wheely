@@ -1,5 +1,5 @@
 {
-  "name": "react-native-wheely",
+  "name": "@dppo/react-native-wheely",
   "version": "0.6.0",
   "description": "An all JavaScript, highly customizable wheel picker for react-native.",
   "main": "lib/index.js",
